@@ -1,6 +1,1 @@
-# design-pattern-study
-# design-pattern-study
-# design-pattern-study
-# design-pattern-study
-# design-pattern-study
-# design-pattern-study
+자주 사용하고 대표적인 디자인 패턴
